@@ -225,7 +225,7 @@ function shareCurrentNote() {
     }
 }
 
-function handleSearch(e) {
+function handleSearch(e) {//render evry time when use types in search box
     renderNotes();
 }
 
